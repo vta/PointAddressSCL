@@ -1,6 +1,8 @@
 # PointAddressSCL
 This repo contains the point address shapefile for Santa Clara County.
 This data will be used by the Pelias geocoder created by Mapzen.  This geocoder is the geocoding engine inside the VTA open trip planner. 
+
+
 Santa Clara County FY 2015 Address Points
 Description
 Address Point feature class in the Santa Clara County Region. All data is for FY15 (July 1, 2014 – June 30, 2015)
